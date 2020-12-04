@@ -1,0 +1,6 @@
+{
+    "prettier.useTabs": true,
+    "prettier.printWidth": 60,
+    "editor.formatOnSave": true,
+    "html.format.wrapLineLength": 80
+}
